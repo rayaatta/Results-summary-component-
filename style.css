@@ -31,6 +31,9 @@ body {
     position: relative;
     flex-direction: column;
 }
+header {
+    display:none;
+}
 main {
     max-width:min(100%,24rem);
     display: flex;
